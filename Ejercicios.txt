@@ -1,0 +1,62 @@
+// Ejercios con Java Script
+
+/*
+Ejercicio 1
+- Programa que pida dos numeros y que nos diga cual es mayor , cual menor y si son iguales
+- PLUS: Si los numeros no son numeros o son menores o iguales a cero, nos los vuelva a pedir
+*/
+
+/*
+Ejercicio 2
+
+- Utilizando un bucle, mostrar la suma y la media de los numeros introducidos
+- hasta introducir un numero negativo y ahi mostrar el resultado
+*/
+
+/*
+Ejercicio 3
+
+- Hacer un programa que muestre todos los numeros entre dos numeros introducidos por el usuario
+*/
+
+/*
+Ejercicio 4
+
+- Mostrar todos los numeros IMPARES Que esten entre dos numeros introducidos por el usuario
+*/
+
+/*
+Ejercicio 5
+- Un programa que muestre todos los numeros DIVISORES de un numero que proporcione el usuario
+- Los divisores son los números que se consiguen al dividir a otro de manera exacta, es decir, el residuo de la division es CERO
+*/
+
+/*
+Ejercicio 6
+
+Hacer un programa que nos diga si es Par e Inpar
+1.- Ventana Promt
+2.- Si no es valido que nos pida de nuevo el Numero
+
+*/
+
+
+/*
+Ejercicio 7
+
+Hacer un programa con las tabla(s) de multiplicar
+1.- Para el Numero Introducido ( Ventana Promt)
+2.- PLUS: Para todas las tablas de Multiplicar del 1 hasta el Numero Introducido
+
+*/
+
+/*
+Ejercicio 8
+
+Programar una Calculadora:
+-Que pida dos numeros por pantalla
+-Si se captura un numero mal ( algo no numerico ), que lo vuelva a pedir
+- el resultado de Sumar, Restar, multiplicar y dividir esas dos cifras
+- se debe mostrar en el cuerpo de la pagina , en una alerta y en la consola
+
+*/
